@@ -68,7 +68,7 @@ The platform is designed with a focus on:
 ---
 
 ### 📦 Product Details
-![Product Details](https://jagaralahammad.vercel.app/assets/zepx2-CGaoMDds.png)
+![Product Details](https://jagaralahammad.vercel.app/assets/zepx3-8a9rjsPk.png)
 
 ---
 
