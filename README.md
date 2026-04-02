@@ -20,7 +20,6 @@
 [![GitHub Issues](https://img.shields.io/github/issues/hammad04x/Zepx-The-Ecommerce)](https://github.com/hammad04x/Zepx-The-Ecommerce/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**[🌐 Live Demo](https://jagaralahammad.vercel.app)**
 
 </div>
 
@@ -291,7 +290,7 @@ GOOGLE_CLIENT_ID=your_google_client_id
 ```bash
 cd server
 npm install
-npm run dev        # with nodemon (recommended)
+npm start        # with nodemon (recommended)
 # or
 node index.js
 ```
